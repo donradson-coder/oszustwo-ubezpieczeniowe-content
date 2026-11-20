@@ -34,7 +34,8 @@
       "judgmentDate": "2019-02-21",
       "court": "Sąd Okręgowy w Warszawie",
       "sourceUrl": "https://www.saos.org.pl/judgments/381118",
-      "publishedAt": "2026-11-20"
+      "publishedAt": "2026-11-20",
+      "caseStatus": "established"
     }
   ]
 }
