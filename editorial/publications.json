@@ -1,4 +1,40 @@
 {
   "schemaVersion": 1,
-  "articles": []
+  "articles": [
+    {
+      "saosId": 381118,
+      "slug": "akta-381118",
+      "title": "Odszkodowania za wypadek, którego nie było. Wyrok w sprawie dwóch współsprawców",
+      "description": "Polski sąd skazał kobietę i mężczyznę za udział w wyłudzeniu odszkodowań wypłaconych za fikcyjny wypadek we Włoszech.",
+      "introduction": "Za wypadek, który według sądu nigdy się nie wydarzył, wypłacono łącznie 162 500 euro odszkodowań. W 2019 roku Sąd Okręgowy w Warszawie uznał kobietę i mężczyznę za winnych udziału w oszustwie i wymierzył każdemu karę półtora roku pozbawienia wolności w zawieszeniu. Oboje mają też częściowo naprawić szkodę i zapłacić koszty sądowe. Sprawa dotyczyła roszczeń zgłoszonych we Włoszech, a ostatecznie pokrytych przez polskiego ubezpieczyciela. Sąd ustalił, że skazani świadomie działali wspólnie z innymi osobami, choć nie byli organizatorami przedsięwzięcia.",
+      "reflection": "W tej sprawie konsekwencje zapisane w wyroku są konkretne: dla każdej osoby kara pozbawienia wolności z warunkowym zawieszeniem, obowiązek zapłaty 12 000 zł na rzecz ubezpieczyciela i 3257,26 zł kosztów sądowych. To rozstrzygnięcie nie oznacza jednak, że cała wypłacona kwota trafiła bezpośrednio do skazanych ani że sąd nakazał im zwrócić ją w całości. W innych podobnych sprawach konsekwencje mogą obejmować zwrot świadczenia, grzywnę lub karę więzienia, zależnie od ustaleń i rozstrzygnięcia sądu. Kwota wypłaty, udział poszczególnych osób i wymierzona im kara nie zawsze są tym samym.",
+      "sections": [
+        {
+          "heading": "Roszczenie po nieistniejącym zdarzeniu",
+          "body": "Podstawą roszczeń miał być wypadek drogowy z sierpnia 2004 roku we Włoszech. Według zgłoszonej wersji kobieta prowadziła samochód, a trzech pasażerów odniosło obrażenia. Sąd ustalił jednak, że taki wypadek z ich udziałem w ogóle nie nastąpił. Nie było też obrażeń, za które odpowiadałby ubezpieczyciel. Nie chodziło więc o spór o wysokość należnego odszkodowania: całe świadczenie wypłacono za zdarzenie, którego nie było. Takie ustalenie stało się podstawą przypisania oszustwa obojgu oskarżonym."
+        },
+        {
+          "heading": "Dwie osoby i podział ról",
+          "body": "Sąd ustalił, że kobieta wystąpiła jako rzekoma kierująca i potwierdziła okoliczności nieistniejącego wypadku. Mężczyzna znalazł się wśród osób przedstawionych jako poszkodowane. Oboje, według sądu, świadomie współdziałali z innymi osobami w celu osiągnięcia korzyści majątkowej. Nie musieli przy tym sami wykonywać wszystkich czynności związanych z roszczeniem. Sąd wskazał, że działali w ramach podziału ról, a żadne z nich nie było inicjatorem ani organizatorem przedsięwzięcia. W postępowaniu przygotowawczym oboje przyznali się do zarzucanego czynu."
+        },
+        {
+          "heading": "Wypłata i rzeczywista szkoda",
+          "body": "Włoski przedstawiciel ubezpieczyciela uznał roszczenia i w 2005 roku wypłacił trzy odszkodowania: 60 000, 75 000 oraz 27 500 euro. Łącznie było to 162 500 euro, które sąd wskazał jako równowartość 648 207,10 zł. Pieniądze przelano na rachunek innej osoby, nie bezpośrednio na konta dwojga oskarżonych. Po rozliczeniu z przedstawicielem koszt wypłat pokrył polski ubezpieczyciel. Sąd uznał, że ponieważ wypadek nie nastąpił, wypłaty były nienależne i stanowiły dla ubezpieczyciela niekorzystne rozporządzenie mieniem."
+        },
+        {
+          "heading": "Co sąd wziął pod uwagę",
+          "body": "Ustalając przebieg sprawy, sąd korzystał między innymi z wyjaśnień oskarżonych, zeznań świadków oraz dokumentacji dotyczącej roszczeń i wypłat. Właściciel samochodu zeznał, że pojazd nie uczestniczył w żadnym wypadku, nie wyjeżdżał nim do Włoch i nie użyczał go w celu uzyskania odszkodowania. Osoba, która później kupiła samochód, mówiła o jego dobrym stanie technicznym. Sąd ocenił te zeznania jako wiarygodne. Uwzględnił również wcześniejsze przyznanie się obojga oskarżonych do czynu."
+        },
+        {
+          "heading": "Kara, naprawienie szkody i koszty",
+          "body": "Polski sąd wymierzył każdemu z oskarżonych rok i sześć miesięcy pozbawienia wolności, zawieszając wykonanie kary na trzyletni okres próby. Zobowiązał też każde z nich do zapłaty 12 000 zł ubezpieczycielowi tytułem częściowego naprawienia szkody oraz 3257,26 zł kosztów sądowych. Przy karze uwzględnił wcześniejszą niekaralność i przyznanie się do czynu. Orzekając częściowe naprawienie szkody, wziął pod uwagę między innymi rolę oskarżonych i to, że wypłaty nie trafiły do nich bezpośrednio."
+        }
+      ],
+      "caseNumber": "XII K 114/18",
+      "judgmentDate": "2019-02-21",
+      "court": "Sąd Okręgowy w Warszawie",
+      "sourceUrl": "https://www.saos.org.pl/judgments/381118",
+      "publishedAt": "2026-11-20"
+    }
+  ]
 }
